@@ -12,7 +12,7 @@ Currently, we are done with our first implementation. I am going to mention the 
 
 1) I have used SVHN( Street View House Numbers ) data as the training set and implemented it using keras-retinanet. The project is implemented in Ubuntu 18.04 and works well in it. It is advised to use separate environment for this particular project.
 
-# Requirements
+## Requirements
 
 - python 3.6
 - tensorflow 1.10.0
